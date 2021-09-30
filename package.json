@@ -1,10 +1,7 @@
 {
     "name": "robotpilot-theme",
     "displayName": "Robot Pilot Theme ",
-    "description": "Robot Pilot is part of a study on VsCode documentation,
-    Colors are based on Eva 01 - Neon Genesis Evangelion
-    Feel free to download, use and modify, Thanks in advance for the FeedBacks
-    ",
+    "description": "Robot Pilot is part of a study on VsCode documentation, Colors are based on Eva 01 - Neon Genesis Evangelion  Feel free to download, use and modify, Thanks in advance for the FeedBacks",
     "author": {
         "name": "Gero"
     },
@@ -25,11 +22,11 @@
 
     "keywords": [
         "robot rilot",
-        "contrast"
-        "purple"
-        "green"
-        "evangelion"
-        "mecha"
+        "contrast",
+        "purple",
+        "green",
+        "evangelion",
+        "mecha",
         "anime"
     ],
     
@@ -37,7 +34,7 @@
         "themes": [
             {
                 "label": "robot-pilot",
-                "uiTheme": "Eva 01",
+                "uiTheme": "vs-dark",
                 "path": "./themes/GHO-color-theme.json"
             }
         ]

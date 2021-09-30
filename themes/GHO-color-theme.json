@@ -42,6 +42,7 @@
         "badge.foreground": "#16C60C",
 		// Notificação Interior | Cor da Esfera
         "badge.background": "#4F2E63",
+        "notfication": "#4F2E63",
 
 		//Barra de progresso | (Não achei no teste)
         "progressBar.background": "#6b07bd",
@@ -94,8 +95,9 @@
 		// Multiplicar Tela | Transição 
         "editorGroup.dropBackground": "#Be6EF0",
 
-		"account":"#Be6EF0", 
-		
+		"notifications.background": "#9B5FE0",
+
+
 		//Ultima Aba do Editor | Cor
         "editorGroupHeader.tabsBackground": "#00B04F",
 		//Abas inferiores
@@ -118,13 +120,15 @@
         "editor.foreground": "#16C60C",
 		//Seleção de Texto no editor 
         "editor.selectionBackground": "#f19a3ea9",
-		//Seletor de Semelhança 
+		//Borda da barra de Notificação do tipo pop up
+        "notificationToast.border": "#16C60C",
+        //Seletor de Semelhança 
         "editor.selectionHighlightBackground": "#f19a3ea9",
 		//Cor de destaque do resultado da busca
         "editor.findMatchBackground": "#00ffea5d",
 		//Cor dos outros resultado
         "editor.findMatchHighlightBackground": "#4F2E63",
-		//Cor da busca foto 
+		//Cor da busca | Fonte 
         "editor.findRangeHighlightBackground": "#000000",
 		//Higlight na parte inferior da busca
         "editor.hoverHighlightBackground":"#F19A3E",
