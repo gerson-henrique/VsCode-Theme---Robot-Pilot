@@ -1,19 +1,43 @@
 {
-    "name": "gho-theme",
-    "displayName": "GHO Theme",
-    "description": "",
+    "name": "robotpilot-theme",
+    "displayName": "Robot Pilot Theme ",
+    "description": "Robot Pilot is part of a study on VsCode documentation,
+    Colors are based on Eva 01 - Neon Genesis Evangelion
+    Feel free to download, use and modify, Thanks in advance for the FeedBacks
+    ",
+    "author": {
+        "name": "Gero"
+    },
+
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
     },
+    "repository":{
+        "type": "git",
+        "url":  "https://github.com/gerson-henrique/VsCode-Theme---Robot-Pilot"
+    },
+
+    "icon" : "/home/srjavali/Downloads/icon",
     "categories": [
         "Themes"
     ],
+
+    "keywords": [
+        "robot rilot",
+        "contrast"
+        "purple"
+        "green"
+        "evangelion"
+        "mecha"
+        "anime"
+    ],
+    
     "contributes": {
         "themes": [
             {
-                "label": "GHO",
-                "uiTheme": "vs-dark",
+                "label": "robot-pilot",
+                "uiTheme": "Eva 01",
                 "path": "./themes/GHO-color-theme.json"
             }
         ]
