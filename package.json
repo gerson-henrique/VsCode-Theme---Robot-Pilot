@@ -6,6 +6,10 @@
         "name": "Gero"
     },
 
+    "publisher": "gerson-henrique",
+
+
+
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
@@ -15,7 +19,8 @@
         "url":  "https://github.com/gerson-henrique/VsCode-Theme---Robot-Pilot"
     },
 
-    "icon" : "/home/srjavali/Downloads/icon",
+    "icon" : "icon.png",
+
     "categories": [
         "Themes"
     ],

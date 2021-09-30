@@ -29,7 +29,7 @@ Feel free to download, use and modify, Thanks in advance for the FeedBacks. <br>
   
   <a href="https://github.com/gerson-henrique/" target="_blank"><img src=" https://cdn.shopify.com/s/files/1/0445/7434/3330/products/BF80D9C4-EEFF-46AF-8079-CE704277D81D_530x@2x.png?v=1607299114" target="_blank"></a> 
   
-   <img align="center" img alt="Theme" height="400px" style="border-radius:400px;" src="http://static.zerochan.net/Eva.01.full.3002552.png">  <br>
+   <img align="center" img alt="Theme" height="400px" style="border-radius:400px;" src="https://media.discordapp.net/attachments/876950923174379611/893196371899858975/Eva.01.full.3002552.png?width=539&height=395">  <br>
   
   
   
