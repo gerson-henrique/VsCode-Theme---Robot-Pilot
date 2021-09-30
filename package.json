@@ -19,7 +19,7 @@
         "url":  "https://github.com/gerson-henrique/VsCode-Theme---Robot-Pilot"
     },
 
-   
+   "icon": "logo.png",
     "categories": [
         "Themes"
     ],
