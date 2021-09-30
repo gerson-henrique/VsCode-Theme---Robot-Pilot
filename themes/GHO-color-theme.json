@@ -42,7 +42,7 @@
         "badge.foreground": "#16C60C",
 		// Notificação Interior | Cor da Esfera
         "badge.background": "#4F2E63",
-        "notfication": "#4F2E63",
+        
 
 		//Barra de progresso | (Não achei no teste)
         "progressBar.background": "#6b07bd",
@@ -224,7 +224,7 @@
             ],
             "settings": {
                 "foreground": "#0E8708",
-                "fontStyle": "underline normal"
+                "fontStyle": "underline"
             }
         },
         {
@@ -417,15 +417,7 @@
             "settings": {
                 "foreground": "#F19A3E"
             }
-        },
-        {
-            "__custom_comment__": "Targets the constructor Classes",
-            "name": "Constructor Classes",
-            "scope": "support.class",
-            "settings": {
-                "fontStyle": " italic",
-                "foreground": "#F19A3E"
-            }
+
         },
         {
             "name": "Library variable",
@@ -434,23 +426,9 @@
                 "fontStyle": ""
             }
         },
-        {
-            "name": "Invalid",
-            "scope": "invalid",
-            "settings": {
-                "background": "#ff00c8",
-                "fontStyle": "",
-                "foreground": "#F8F8F0"
-            }
-        },
-        {
-            "name": "Invalid deprecated",
-            "scope": "invalid.deprecated",
-            "settings": {
-                "background": "#9b5fe0",
-                "foreground": "#F8F8F0"
-            }
-        },
+      
+        
+     
         {
             "name": "JSON String",
             "scope": [
@@ -549,7 +527,6 @@
             ],
             "settings": {
                 "foreground": "#F19A3E",
-                "border": "#35ba66",
                 "fontStyle": "italic"
             }
         },
@@ -567,7 +544,7 @@
                 "text.html.markdown meta.dummy.line-break"
             ],
             "settings": {
-                "foreground": ""
+                "foreground": "#fa000000"
             }
         },
         {
