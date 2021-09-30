@@ -21,7 +21,7 @@
   you are interested in how to develop your own themes just check my profile <br><br><br>
   
  
- <img align="center" img alt="Theme" height="400px" style="border-radius:400px;" src="https://media.discordapp.net/attachments/876950923174379611/893165099659960390/Theme.png?width=739&height=591">  <br>
+ <img align="center" img alt="Theme" height="400px" style="border-radius:400px;" src="https://media.discordapp.net/attachments/876950923174379611/893165099659960390/Theme.png?width=739&height=591">  <br><br><br>
  based on Eva 01 - <strong> Neon Genesis Evangelion </strong> <br>
 this Theme was made with free and open source material<br>
 Feel free to download, use and modify, Thanks in advance for the FeedBacks. <br>
